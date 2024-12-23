@@ -1,0 +1,15 @@
+ru/urfu/testsecurity2dbthemeleaf/service/CustomUserDetailsService.class
+ru/urfu/testsecurity2dbthemeleaf/repository/UserRepository.class
+ru/urfu/testsecurity2dbthemeleaf/controller/SecurityController.class
+ru/urfu/testsecurity2dbthemeleaf/repository/RoleRepository.class
+ru/urfu/testsecurity2dbthemeleaf/dto/UserDto.class
+ru/urfu/testsecurity2dbthemeleaf/controller/StudentController.class
+ru/urfu/testsecurity2dbthemeleaf/Lr08SpringApplication.class
+ru/urfu/testsecurity2dbthemeleaf/entity/Role.class
+ru/urfu/testsecurity2dbthemeleaf/repository/StudentRepository.class
+ru/urfu/testsecurity2dbthemeleaf/config/WebSecurityConfig.class
+ru/urfu/testsecurity2dbthemeleaf/service/UserService.class
+ru/urfu/testsecurity2dbthemeleaf/entity/User.class
+ru/urfu/testsecurity2dbthemeleaf/entity/Student.class
+ru/urfu/testsecurity2dbthemeleaf/config/MvcConfig.class
+ru/urfu/testsecurity2dbthemeleaf/service/UserServiceImpl.class

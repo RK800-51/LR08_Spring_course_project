@@ -1,0 +1,15 @@
+/home/rk800/IdeaProjects/LR08_Spring/src/main/java/ru/urfu/testsecurity2dbthemeleaf/Lr08SpringApplication.java
+/home/rk800/IdeaProjects/LR08_Spring/src/main/java/ru/urfu/testsecurity2dbthemeleaf/config/MvcConfig.java
+/home/rk800/IdeaProjects/LR08_Spring/src/main/java/ru/urfu/testsecurity2dbthemeleaf/config/WebSecurityConfig.java
+/home/rk800/IdeaProjects/LR08_Spring/src/main/java/ru/urfu/testsecurity2dbthemeleaf/controller/SecurityController.java
+/home/rk800/IdeaProjects/LR08_Spring/src/main/java/ru/urfu/testsecurity2dbthemeleaf/controller/StudentController.java
+/home/rk800/IdeaProjects/LR08_Spring/src/main/java/ru/urfu/testsecurity2dbthemeleaf/dto/UserDto.java
+/home/rk800/IdeaProjects/LR08_Spring/src/main/java/ru/urfu/testsecurity2dbthemeleaf/entity/Role.java
+/home/rk800/IdeaProjects/LR08_Spring/src/main/java/ru/urfu/testsecurity2dbthemeleaf/entity/Student.java
+/home/rk800/IdeaProjects/LR08_Spring/src/main/java/ru/urfu/testsecurity2dbthemeleaf/entity/User.java
+/home/rk800/IdeaProjects/LR08_Spring/src/main/java/ru/urfu/testsecurity2dbthemeleaf/repository/RoleRepository.java
+/home/rk800/IdeaProjects/LR08_Spring/src/main/java/ru/urfu/testsecurity2dbthemeleaf/repository/StudentRepository.java
+/home/rk800/IdeaProjects/LR08_Spring/src/main/java/ru/urfu/testsecurity2dbthemeleaf/repository/UserRepository.java
+/home/rk800/IdeaProjects/LR08_Spring/src/main/java/ru/urfu/testsecurity2dbthemeleaf/service/CustomUserDetailsService.java
+/home/rk800/IdeaProjects/LR08_Spring/src/main/java/ru/urfu/testsecurity2dbthemeleaf/service/UserService.java
+/home/rk800/IdeaProjects/LR08_Spring/src/main/java/ru/urfu/testsecurity2dbthemeleaf/service/UserServiceImpl.java
