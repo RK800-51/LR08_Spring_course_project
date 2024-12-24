@@ -34,10 +34,6 @@ public class StudentController {
         log.info("/list -> connection");
         ModelAndView modelAndView = new ModelAndView("list-students");
         modelAndView.addObject("students", studentRepository.findAll());
-        for (Student student : studentRepository.findAll()) {
-            System.out.println(student.getBirthday());
-            System.out.println(student.getPresent());
-        }
         boolean isAdmin = authentication.getAuthorities().contains(new SimpleGrantedAuthority("ROLE_ADMIN"));
         boolean isUser = authentication.getAuthorities().contains(new SimpleGrantedAuthority("ROLE_USER"));
         boolean isReadOnly = authentication.getAuthorities().contains(new SimpleGrantedAuthority("ROLE_READ_ONLY"));
